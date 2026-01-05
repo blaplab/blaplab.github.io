@@ -1,6 +1,6 @@
 theme: minima
-url: https://brady-decouto.github.io
-baseurl: /BLAPLab.github.io
+url: "https://blaplab.github.io"
+baseurl: ""
 
 header_pages:
   - index.md
