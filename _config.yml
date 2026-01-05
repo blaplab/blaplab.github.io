@@ -1,0 +1,10 @@
+theme: minima
+url: https://brady-decouto.github.io
+baseurl: /BLAPLab.github.io
+
+header_pages:
+  - index.md
+  - projects.md
+  - people.md
+  - publications.md
+  - collaborators.md
