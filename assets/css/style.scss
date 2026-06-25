@@ -3,7 +3,7 @@
 
 /* ===== COLORS ===== */
 $bg:    #b5b5b5;      // keep your darker grey (or whatever you picked)
-$header:#a678f0;      // very light purple header
+$header:#f1ecff;      // very light purple header
 $text:  #000000;      // black text everywhere
 
 
@@ -379,5 +379,8 @@ body {
   background: #fff;      /* optional: avoids weird transparency edges */
 }
 
-
+h1.post-title,
+h1.page-title {
+  color: #ffffff;
+}
 
