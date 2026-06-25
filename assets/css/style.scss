@@ -23,8 +23,8 @@ body {
 
 
 body {
-  background-color: red;
-  background-image: url('/BLAPLab.github.io/assets/img/EEG_Background.png');
+  background-color: $bg;
+  background-image: url('/assets/img/EEG_Background.png');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
