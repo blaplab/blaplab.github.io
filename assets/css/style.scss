@@ -23,7 +23,12 @@ body {
 
 
 body {
-  background: $bg;
+  background-color: $bg;
+  background-image: url('/BLAPLab.github.io/assets/img/EEG_Background.png');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: $text;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
   line-height: 1.6;
