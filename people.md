@@ -143,7 +143,8 @@ permalink: /people/
 
 ---
 
-## Alumni
+<h2 style="color: #ffffff;">Alumni</h2>
+<div class="alumni-grid">
 
 <div class="alumni-grid">
   <div class="alumni-card">
