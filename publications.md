@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-## Recent Publications
-
 <div class="publications">
 
 <p><strong>DeCouto, B. S.</strong>, Treacy, A., McCurdy, Z., Patterson, C. B., Johnson, M., Neubauer, C., Pollard, K., & Perera, I. (2026). Tech-savviness: Predicting and measuring learning ability of novel digital platforms. <em>Computers in Human Behavior Reports</em>, 22, 101140.</p>
