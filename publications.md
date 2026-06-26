@@ -8,6 +8,10 @@ permalink: /publications/
 
 <div class="publications">
 
+<p><strong>DeCouto, B. S.</strong>, Treacy, A., McCurdy, Z., Patterson, C. B., Johnson, M., Neubauer, C., Pollard, K., & Perera, I. (2026). Tech-savviness: Predicting and measuring learning ability of novel digital platforms. <em>Computers in Human Behavior Reports</em>, 22, 101140.</p>
+
+<p>Perera, I., <strong>DeCouto, B.</strong>, Bates, C., Johnson, M., Patterson, C., Treacy, A., & McCurdy, Z. (2026, April). The Robot Maze Test: An Evaluation of Situated Learning for Humans and Machine Agents. In <em>The International FLAIRS Conference Proceedings</em> (Vol. 39, No. 1).</p>
+
 <p>Cocić, D., <strong>DeCouto, B. S.</strong>, Fawver, B., Cowan, R. L., Hendry, D. T., Williams, A. M., & Bilalić, M. (2025). Grit subcomponents are differentially associated with practice trajectories underlying expertise development. <em>Scientific Reports</em>, 15(1), 37812.</p>
 
 <p>Williams, A. M., <strong>DeCouto, B. S.</strong>, Teoldo, I., & Vater, C. (2025). Gaze behavior and expert performance in sport. In <em>Gaze and Visual Perception in Sport</em> (pp. 59–76). Routledge.</p>
