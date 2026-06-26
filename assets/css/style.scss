@@ -385,3 +385,31 @@ h1.page-title {
   color: #ffffff;
 }
 
+/* ===== ALUMNI SECTION ===== */
+.alumni-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.alumni-card {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 12px 16px;
+  font-size: 0.9rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  min-width: 180px;
+}
+
+.alumni-name {
+  font-weight: 700;
+  margin: 0 0 2px;
+}
+
+.alumni-role {
+  color: #555;
+  font-size: 0.82rem;
+  margin: 0;
+}
+
