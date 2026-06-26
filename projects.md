@@ -30,7 +30,7 @@ permalink: /projects/
   <div class="project-text">
     <h3 class="project-title">Measuring Technological Savviness</h3>
     <p>
-      Given the rapid advancement of intelligent technologies in modern society, the ability to quickly learn new technologies (“tech-savviness”) is growing into an essential 21st-century skill. In this work funded by DEVCOM ARL in collaboration with Florida IHMC, we study which behaviors are adaptive in learning new digital platforms, and which previous technology-related experiences and dispositions make someone more likely to be tech-savvy.
+      Given the rapid advancement of intelligent technologies in modern society, the ability to effectively learn new technologies (“tech-savviness”) is growing into an essential 21st-century skill. Artificial intelligence (AI) is also reshaping learning environments, and consequently, it is important to understand what technological experiences shape optimal learning in AI-assisted contexts. This program of work that has been funded both by DoD and internally examines psychophysiological indices of learning in contexts with digital tools, as well as technology experiences and behaviors associated with adaptive use of available assistive tools for learning (e.g., AI).
     </p>
   </div>
   <img src="{{ '/assets/img/tsavvy.png' | relative_url }}" alt="Tech-savviness project">
