@@ -60,22 +60,6 @@ permalink: /people/
   </div>
 </div>
 
-<!-- Arfa Mubeen -->
-<div class="person grad">
-  <img src="{{ '/assets/img/Mubeen.png' | relative_url }}" alt="Arfa Mubeen">
-  <div class="person-text">
-    <h2 class="person-name">Arfa Mubeen, M.Phil.</h2>
-    <p>
-      Arfa is currently a second-year PhD student in Sport Psychology under the supervision 
-      of Dr. DeCouto, with a background in Psychology. Her research interests include motor 
-      learning, with a particular focus on the effectiveness of different types of assistance 
-      in the acquisition of motor skills. Her M.Phil. research focused on elite athletes, and
-      in her PhD, she plans to work with novice athletes. She is interested in applying her 
-      research to optimize skill learning and performance in sport and physical activity contexts. 
-    </p>
-  </div>
-</div>
-
 <!-- Johanna Glaaser -->
 <div class="person grad">
   <img src="{{ '/assets/img/Glaaser.png' | relative_url }}" alt="Johanna Glaaser">
@@ -90,6 +74,22 @@ permalink: /people/
       Her aim is to translate data and empirical research into actionable coaching
       tools for supporting athlete development and cultivating high-performance
       environments.
+    </p>
+  </div>
+</div>
+
+<!-- Arfa Mubeen -->
+<div class="person grad">
+  <img src="{{ '/assets/img/Mubeen.png' | relative_url }}" alt="Arfa Mubeen">
+  <div class="person-text">
+    <h2 class="person-name">Arfa Mubeen, M.Phil.</h2>
+    <p>
+      Arfa is currently a second-year PhD student in Sport Psychology under the supervision 
+      of Dr. DeCouto, with a background in Psychology. Her research interests include motor 
+      learning, with a particular focus on the effectiveness of different types of assistance 
+      in the acquisition of motor skills. Her M.Phil. research focused on elite athletes, and
+      in her PhD, she plans to work with novice athletes. She is interested in applying her 
+      research to optimize skill learning and performance in sport and physical activity contexts. 
     </p>
   </div>
 </div>
