@@ -32,10 +32,15 @@ permalink: /people/
 
 <!-- Daniel Biancamano -->
 <div class="person grad">
-  <img src="{{ '/assets/img/placeholder.png' | relative_url }}" alt="Daniel Biancamano">
+  <img src="{{ '/assets/img/Daniel.png' | relative_url }}" alt="Daniel Biancamano">
   <div class="person-text">
     <h2 class="person-name">Daniel Biancamano, B.S.</h2>
     <p>
+      Daniel is a master’s student in the Sport Psychology program completing a thesis investigating the effects of acute stress on performance. He
+      previously attended the University of Pittsburgh where he worked as a research assistant with Drs. Peter Gianaros and Mark Scudder studying
+      biopsychosocial influences on brain and heart health. He is interested in how protective factors like coping, emotion regulation, and other
+      psychosocial and behavioral factors buffer associations between stress and poor health. Daniel plans to pursue a PhD after graduating from FSU.
+      Outside of the lab, he enjoys hiking, traveling, music, and photography.  
     </p>
   </div>
 </div>
