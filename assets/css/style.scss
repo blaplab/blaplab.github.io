@@ -294,6 +294,19 @@ body {
 }
 .project p { margin: 0; line-height: 1.55; }
 
+.project-collaborators {
+  margin-top: 10px !important;
+  font-size: 0.88rem;
+  color: #555;
+}
+.project-collaborators a {
+  color: #6a1b9a;
+  text-decoration: none;
+}
+.project-collaborators a:hover {
+  text-decoration: underline;
+}
+
 /* Mobile: stack image above text */
 @media (max-width: 750px) {
   .project { flex-direction: column; }
