@@ -428,15 +428,34 @@ h1.page-title {
 }
 
 /* ===== PARTICIPATE PAGE (flyer cards) ===== */
+
+/* Opaque white box behind the intro text, same pattern as .home-content / .publications */
+.participate-intro {
+  background: #ffffff;
+  color: #000000;
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  max-width: 850px;
+  margin: 0 auto 30px;
+  line-height: 1.6;
+}
+
+/* Fixed 2-column layout */
 .flyer-grid {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 20px;
-  margin-top: 20px;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+/* Mobile: drop to 1 column */
+@media (max-width: 650px) {
+  .flyer-grid { grid-template-columns: 1fr; }
 }
 
 .flyer-card {
-  width: 230px;
   background: #ffffff;
   border-radius: 8px;
   padding: 14px;
@@ -448,8 +467,9 @@ h1.page-title {
 }
 
 .flyer-card .flyer-thumb {
-  width: 100%;
+  width: 120px;
   height: auto;
+  margin: 0 auto;
   border: 1px solid #ddd;
   border-radius: 4px;
   object-fit: cover;
