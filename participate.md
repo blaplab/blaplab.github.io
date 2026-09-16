@@ -17,8 +17,7 @@ permalink: /participate/
     <a href="{{ '/assets/docs/flyers/neuro-t-savvy-flyer.pdf' | relative_url }}" target="_blank" rel="noopener">
       <img class="flyer-thumb" src="{{ '/assets/img/flyers/neuro-t-savvy-thumb.jpg' | relative_url }}" alt="Neuro-T-Savvy study flyer">
     </a>
-    <h3>Measuring Technological Savviness</h3>
-    <p>Neural and behavioral markers of learning with digital tools.</p>
+    <h3>Neurobehavioral Markers of Learning Digital Tools</h3>
     <a class="btn" href="https://fsu.qualtrics.com/jfe/form/REPLACE_WITH_SURVEY_ID" target="_blank" rel="noopener">Screening Survey</a>
   </div>
 
@@ -26,8 +25,7 @@ permalink: /participate/
     <a href="{{ '/assets/docs/flyers/unicycle-flyer.pdf' | relative_url }}" target="_blank" rel="noopener">
       <img class="flyer-thumb" src="{{ '/assets/img/flyers/unicycle-thumb.jpg' | relative_url }}" alt="Unicycle study flyer">
     </a>
-    <h3>Movement-Assistive Robotics in Motor Learning</h3>
-    <p>Learning to ride a unicycle with intelligent movement-assistive robotics.</p>
+    <h3>Human Motor Learning - Unicycling</h3>
     <a class="btn" href="https://fsu.qualtrics.com/jfe/form/REPLACE_WITH_SURVEY_ID" target="_blank" rel="noopener">Screening Survey</a>
   </div>
 
@@ -35,9 +33,16 @@ permalink: /participate/
     <a href="{{ '/assets/docs/flyers/braintech-flyer.pdf' | relative_url }}" target="_blank" rel="noopener">
       <img class="flyer-thumb" src="{{ '/assets/img/flyers/braintech-thumb.jpg' | relative_url }}" alt="i-BrainTech neurofeedback study flyer">
     </a>
-    <h3>Neurofeedback Scheduling in Skill Learning</h3>
-    <p>Studying feedback schedules on skill learning with i-BrainTech's BCI.</p>
+    <h3>Investigating Neurofeedback Schedules for Training Mental Skills</h3>
     <a class="btn" href="https://fsu.qualtrics.com/jfe/form/REPLACE_WITH_SURVEY_ID" target="_blank" rel="noopener">Screening Survey</a>
+  </div>
+
+  <div class="flyer-card">
+    <a href="{{ '/assets/docs/flyers/DanielDarts2026.pdf' | relative_url }}" target="_blank" rel="noopener">
+      <img class="flyer-thumb" src="{{ '/assets/img/flyers/DanielDarts2026.jpg' | relative_url }}" alt="i-BrainTech neurofeedback study flyer">
+    </a>
+    <h3>The Effects of Acute Pain on Quiet Eye during a Dart Throwing Task </h3>
+    <a class="btn" href="https://calendly.com/daniel-d-biancamano/30min/2026-09-18T10:00:00-04:00?month=2026-09&date=2026-09-18" target="_blank" rel="noopener">Screening Survey</a>
   </div>
 
   <!--
