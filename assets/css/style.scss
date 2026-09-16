@@ -426,3 +426,70 @@ h1.page-title {
 .home-content h2 {
   color: #000000 !important;
 }
+
+/* ===== PARTICIPATE PAGE (flyer cards) ===== */
+.flyer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.flyer-card {
+  width: 230px;
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 14px;
+  text-align: center;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.flyer-card .flyer-thumb {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  object-fit: cover;
+  transition: transform 0.15s ease-in-out;
+}
+
+.flyer-card a:hover .flyer-thumb {
+  transform: scale(1.03);
+}
+
+.flyer-card h3 {
+  font-size: 1rem;
+  margin: 10px 0 4px;
+  color: #000000;
+}
+
+.flyer-card p {
+  font-size: 0.85rem;
+  color: #444;
+  margin: 0 0 10px;
+}
+
+.flyer-card .btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+  border: 2px solid #8a2be2;
+  color: #8a2be2;
+  padding: 6px 18px;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.flyer-card .btn:hover {
+  background: #8a2be2;
+  color: #ffffff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
