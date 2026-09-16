@@ -18,7 +18,7 @@ permalink: /participate/
       <img class="flyer-thumb" src="{{ '/assets/docs/flyers/NeuroTSavvy.jpg' | relative_url }}" alt="Neuro-T-Savvy study flyer">
     </a>
     <h3>Neurobehavioral Markers of Learning Digital Tools</h3>
-    <a class="btn" href="https://fsu.qualtrics.com/jfe/form/REPLACE_WITH_SURVEY_ID" target="_blank" rel="noopener">Screening Survey</a>
+    <a class="btn" href="https://fsu.qualtrics.com/jfe/form/SV_bq4MZ31oV6Ost1Q?Q_CHL=qr" target="_blank" rel="noopener">Screening Survey</a>
   </div>
 
   <div class="flyer-card">
@@ -26,7 +26,7 @@ permalink: /participate/
       <img class="flyer-thumb" src="{{ '/assets/docs/flyers/Unicycle.jpg' | relative_url }}" alt="Unicycle study flyer">
     </a>
     <h3>Human Motor Learning - Unicycling</h3>
-    <a class="btn" href="https://fsu.qualtrics.com/jfe/form/REPLACE_WITH_SURVEY_ID" target="_blank" rel="noopener">Screening Survey</a>
+    <a class="btn" href="https://fsu.qualtrics.com/jfe/form/SV_4O6JePUOT7OmLv8?Q_CHL=qr" target="_blank" rel="noopener">Screening Survey</a>
   </div>
 
   <div class="flyer-card">
@@ -34,7 +34,7 @@ permalink: /participate/
       <img class="flyer-thumb" src="{{ '/assets/docs/flyers/iBrainTech.jpg' | relative_url }}" alt="i-BrainTech neurofeedback study flyer">
     </a>
     <h3>Investigating Neurofeedback Schedules for Training Mental Skills</h3>
-    <a class="btn" href="https://fsu.qualtrics.com/jfe/form/REPLACE_WITH_SURVEY_ID" target="_blank" rel="noopener">Screening Survey</a>
+    <a class="btn" href="https://fsu.qualtrics.com/jfe/form/SV_9Kvsn9pu1lmRxjw?Q_CHL=qr" target="_blank" rel="noopener">Screening Survey</a>
   </div>
 
   <div class="flyer-card">
