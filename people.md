@@ -94,24 +94,6 @@ permalink: /people/
   </div>
 </div>
 
-<!-- Alec Treacy -->
-<div class="person grad">
-  <img src="{{ '/assets/img/Treacy.png' | relative_url }}" alt="Alec Treacy">
-  <div class="person-text">
-    <h2 class="person-name">Alec Treacy, M.S.</h2>
-    <p>
-      Alec is a fourth-year doctoral candidate in Sport Psychology whose research 
-      examines psychological processes underlying performance in musicians and athletes. 
-      His work integrates frameworks from performance psychology, motivation science, and 
-      acceptance-based approaches to better understand how performers experience and manage 
-      performance anxiety. He prioritizes applied, data-driven research and regularly works 
-      with musicians and athletic populations to translate empirical findings into practical 
-      mental performance strategies that support motivation, well-being, and high-level 
-      performance.
-    </p>
-  </div>
-</div>
-
 <!-- Trey Wood -->
 <div class="person grad">
   <img src="{{ '/assets/img/Wood.png' | relative_url }}" alt="Trey Wood">
@@ -134,7 +116,7 @@ permalink: /people/
 
 
 {% assign ra_students = 
-   "Allison Cox,Cooper Garrard,Edgar Mora,Keanu Parsa,Jarred Kirk" 
+   "Cooper Garrard,Edgar Mora,Jarred Kirk" 
    | split: "," | sort %}
 {% for ra in ra_students %}
 <div class="person ra">
@@ -151,18 +133,22 @@ permalink: /people/
 <h2 style="color: #ffffff;">Alumni</h2>
 <div class="alumni-grid">
 
+<div class="alumni-card">
+    <p class="alumni-name">Michael Avola, M.S.</p>
+    <p class="alumni-role">Research Assistant, 2025–2026</p>
+  </div>
 <div class="alumni-grid">
   <div class="alumni-card">
     <p class="alumni-name">Janos Bjoernvig, M.S.</p>
     <p class="alumni-role">Research Assistant, 2025–2026</p>
   </div>
-  <div class="alumni-card">
-    <p class="alumni-name">Michael Avola, M.S.</p>
-    <p class="alumni-role">Research Assistant, 2025–2026</p>
-  </div>
    <div class="alumni-card">
     <p class="alumni-name">Kara Cousino, M.S.</p>
     <p class="alumni-role">Research Assistant, 2025–2026</p>
+  </div>
+   <div class="alumni-card">
+    <p class="alumni-name">Allison Cox, B.S.</p>
+    <p class="alumni-role">Research Assistant, 2024–2025</p>
   </div>
   <div class="alumni-card">
     <p class="alumni-name">Moonjeong Kang, M.S.</p>
@@ -177,8 +163,16 @@ permalink: /people/
     <p class="alumni-role">Research Assistant, 2025–2026</p>
   </div>
   <div class="alumni-card">
+    <p class="alumni-name">Keanu Parsa</p>
+    <p class="alumni-role">Research Assistant, 2024–2025</p>
+  </div>
+  <div class="alumni-card">
     <p class="alumni-name">Jakob Tweedel, M.S.</p>
     <p class="alumni-role">Research Assistant, 2024–2025</p>
+  </div>
+  <div class="alumni-card">
+    <p class="alumni-name">Alec Treacy, Ph.D.</p>
+    <p class="alumni-role">Research Assistant, 2025–2026</p>
   </div>
   <div class="alumni-card">
     <p class="alumni-name">Taylor Yanchuk, M.S.</p>
