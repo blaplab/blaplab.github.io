@@ -38,8 +38,9 @@ permalink: /projects/
     <p>
       Given the rapid advancement and integration of intelligent technologies in modern society, the ability to effectively learn digital tools is growing into an essential 21st-century skill. Understanding how individuals cognitively engage with new digital platforms according to experiences and technology-related perceptions is important for improving educational outcomes across age grops. This funded, collaborative program of work examines psychophysiological indices of learning in contexts with digital tools, as well as technology experiences and behaviors associated with adaptive use of available assistive tools for learning.
     </p>
-     <p class="project-collaborators">
+    <p class="project-collaborators">
       <strong>Collaborators:</strong> <a href="https://annescollege.fsu.edu/faculty-staff/dr-bret-staudt-willet" target="_blank" rel="noopener">Dr. Bret Staudt-Willet</a>, <a href="https://annescollege.fsu.edu/faculty-staff/dr-kadir-kozan" target="_blank" rel="noopener">Dr. Kadir Kozan</a>, <a href="https://www.ihmc.us/groups/ian-perera/" target="_blank" rel="noopener">Dr. Ian Perera</a>, <a href="https://www.ihmc.us/groups/chris-bates/" target="_blank" rel="noopener">Dr. Chris Bates</a>
+    </p>
   </div>
   <img src="{{ '/assets/img/TechSavvyPyramid.png' | relative_url }}" alt="Tech-savviness project">
 </div>
@@ -50,7 +51,9 @@ permalink: /projects/
     <p>
       In humans, balance and emotion are highly integrated processes. Many balance-related disorders are accompanied by anxiety-related disorders due to proximal neural circuitry between the vestibular and limbic system. Thus, uncovering neural mechanisms involved in balance-related anxiety would provide important clinical markers for balance disorders and injury recovery. In this work, we use EEG to study neural markers associated with losing balance.  
     </p>
-    <strong>Collaborators:</strong> <a href="https://www.uncg.edu/employees/nicholas-kreter/" target="_blank" rel="noopener">Dr. Nicholas Kreter</a>, <a href="https://www.ohio.edu/directory/aiden-payne" target="_blank" rel="noopener">Dr. Aiden Payne</a>
+    <p class="project-collaborators">
+      <strong>Collaborators:</strong> <a href="https://www.uncg.edu/employees/nicholas-kreter/" target="_blank" rel="noopener">Dr. Nicholas Kreter</a>, <a href="https://www.ohio.edu/directory/aiden-payne" target="_blank" rel="noopener">Dr. Aiden Payne</a>
+    </p>
   </div>
   <img src="{{ '/assets/img/AnxiousBrain.png' | relative_url }}" alt="Balance EEG project">
 </div>
