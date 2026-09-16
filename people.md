@@ -133,11 +133,10 @@ permalink: /people/
 <h2 style="color: #ffffff;">Alumni</h2>
 <div class="alumni-grid">
 
-<div class="alumni-card">
+  <div class="alumni-card">
     <p class="alumni-name">Michael Avola, M.S.</p>
     <p class="alumni-role">Research Assistant, 2025–2026</p>
   </div>
-<div class="alumni-grid">
   <div class="alumni-card">
     <p class="alumni-name">Janos Bjoernvig, M.S.</p>
     <p class="alumni-role">Research Assistant, 2025–2026</p>
